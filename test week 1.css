@@ -1,0 +1,41 @@
+body{
+    background-color: ghostwhite;
+}
+.tinyfont{
+    font-size: xx-small;
+}
+select{
+    background: linear-gradient(to bottom, whitesmoke, white );
+}
+.signin{
+    color: red;
+}
+.submit{
+    background-color: green;
+}
+table{
+    margin:00px;
+    padding: 0px;
+    border-collapse: 0px;
+}
+li{
+    display: inline;
+}
+.graycolour{
+    color: grey;
+}
+.red{
+    color: red;
+}
+.smallfont{
+    font-size: small;
+}
+head{
+    margin-bottom: 0px;
+}
+input{
+    border-top: ghostwhite;
+    border-left: ghostwhite;
+    background-color: ghostwhite;
+    border-right: gray;
+}
